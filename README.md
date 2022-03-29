@@ -27,4 +27,4 @@ Do not use for Abuse Activities.
 We will not be held responsible for anything that happens to the Victim, the Perpetrator.
 This code is only distributed and is not recommended to be used TO PUBLIC (including-abuse)
 Only fools trade(buy/sell) this Code.
-- All risks are in your hands.
+- All risks are in your handss.
