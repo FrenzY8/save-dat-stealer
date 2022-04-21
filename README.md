@@ -3,6 +3,9 @@
 A growtopia save.dat stealer in javascript.
 - B4 use this code, please [read](https://github.com/FrenzY8/save-dat-stealer/blob/main/README.md#read)
 
+# Noted
+this repository will be closed forever, (No updates anymore)
+
 # installations
 - npm i discord-webhook-node
 
